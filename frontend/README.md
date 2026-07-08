@@ -1,4 +1,4 @@
-# Meetily - Frontend
+﻿# Meetily - Frontend
 
 A modern desktop application for recording, transcribing, and analyzing meetings with AI assistance. Built with Next.js and Tauri for a native desktop experience.
 
@@ -31,10 +31,10 @@ A modern desktop application for recording, transcribing, and analyzing meetings
 
 ```
 /frontend
-├── src/                   # Next.js frontend code
-├── src-tauri/             # Rust backend for Tauri
-├── public/                # Static assets
-└── package.json           # Project dependencies
+â”œâ”€â”€ src/                   # Next.js frontend code
+â”œâ”€â”€ src-tauri/             # Rust backend for Tauri
+â”œâ”€â”€ public/                # Static assets
+â””â”€â”€ package.json           # Project dependencies
 ```
 
 ## Installation
@@ -61,8 +61,8 @@ A modern desktop application for recording, transcribing, and analyzing meetings
 
 2. Clone the repository and navigate to the frontend directory:
    ```bash
-   git clone https://github.com/Zackriya-Solutions/meeting-minutes
-   cd meeting-minutes/frontend
+   git clone https://github.com/PixelNoah-ui/Ai_assistance
+   cd Ai_assistance/frontend
    ```
   
 
@@ -81,8 +81,8 @@ A modern desktop application for recording, transcribing, and analyzing meetings
 
 2. Clone the repository and navigate to the frontend directory:
    ```cmd
-   git clone https://github.com/Zackriya-Solutions/meeting-minutes
-   cd meeting-minutes/frontend
+   git clone https://github.com/PixelNoah-ui/Ai_assistance
+   cd Ai_assistance/frontend
    ```
 
 3. Install dependencies:
@@ -174,3 +174,5 @@ For build and acceleration details, see:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+

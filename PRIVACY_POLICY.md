@@ -1,4 +1,4 @@
-# Meetily Privacy Policy
+﻿# Meetily Privacy Policy
 
 *Last updated: [Current Date]*
 
@@ -38,12 +38,12 @@ Usage analytics is optional and off by default. When you choose to enable it, Me
 
 ### What We DON'T Collect
 We never collect:
-- ❌ Meeting content, transcripts, or recordings
-- ❌ Personal information or identifiable data
-- ❌ File names, meeting titles, or metadata
-- ❌ Audio data or voice patterns
-- ❌ Participant names or contact information
-- ❌ LLM conversations or AI-generated content
+- âŒ Meeting content, transcripts, or recordings
+- âŒ Personal information or identifiable data
+- âŒ File names, meeting titles, or metadata
+- âŒ Audio data or voice patterns
+- âŒ Participant names or contact information
+- âŒ LLM conversations or AI-generated content
 
 ### Why We Collect This Data
 When enabled, analytics helps us with:
@@ -110,7 +110,7 @@ We will notify users of any material changes to this privacy policy through:
 ## Contact Us
 
 For privacy-related questions or concerns:
-- **GitHub Issues**: [Create an issue](https://github.com/Zackriya-Solutions/meeting-minutes/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/PixelNoah-ui/Ai_assistance/issues)
 - **Email**: [Contact form](https://www.zackriya.com/service-interest-form/)
 - **Community**: [Discord](https://discord.gg/crRymMQBFH)
 
@@ -125,3 +125,4 @@ As an open-source project under MIT license, you can:
 ---
 
 *This privacy policy applies to Meetily v0.0.5 and later versions. For enterprise deployments, additional privacy controls may be available.*
+

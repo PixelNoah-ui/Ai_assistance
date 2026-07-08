@@ -1,4 +1,4 @@
-# Contributing to Meeting Minutes Updates
+﻿# Contributing to Meeting Minutes Updates
 
 Thank you for your interest in contributing to Meetily! This document provides guidelines and instructions for contributing to this project.
 
@@ -15,11 +15,11 @@ Thank you for your interest in contributing to Meetily! This document provides g
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/meeting-minutes.git
+   git clone https://github.com/YOUR_USERNAME/Ai_assistance.git
    ```
 3. Add the original repository as upstream:
    ```bash
-   git remote add upstream https://github.com/Zackriya-Solutions/meeting-minutes.git
+   git remote add upstream https://github.com/PixelNoah-ui/Ai_assistance.git
    ```
 4. Create a new branch from `devtest`:
    ```bash
@@ -150,3 +150,4 @@ Types:
 ## License
 
 By contributing, you agree that your contributions will be licensed under the project's MIT License. 
+

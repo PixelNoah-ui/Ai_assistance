@@ -1,32 +1,28 @@
-<div align="center" style="border-bottom: none">
+﻿<div align="center" style="border-bottom: none">
     <h1>
         <img src="docs/Meetily-6.png" style="border-radius: 10px;" />
         <br>
         Privacy-First AI Meeting Assistant
     </h1>
-    <a href="https://trendshift.io/repositories/21958" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21958" alt="Zackriya-Solutions%2Fmeetily | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+    <a href="https://trendshift.io/repositories/21958" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21958" alt="PixelNoah-ui%2FAi_assistance | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
     <br>
     <br>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases/"><img src="https://img.shields.io/badge/Pre_Release-Link-brightgreen" alt="Pre-Release"></a>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zackriya-solutions/meeting-minutes?style=flat">
+    <a href="https://github.com/PixelNoah-ui/Ai_assistance/releases/"><img src="https://img.shields.io/badge/Pre_Release-Link-brightgreen" alt="Pre-Release"></a>
+    <a href="https://github.com/PixelNoah-ui/Ai_assistance/releases"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/PixelNoah-ui/Ai_assistance?style=flat">
 </a>
- <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases"> <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/zackriya-solutions/meeting-minutes/total?style=plastic"> </a>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases"><img src="https://img.shields.io/badge/Supported_OS-macOS,_Windows-white" alt="Supported OS"></a>
-    <a href="https://github.com/Zackriya-Solutions/meeting-minutes/releases"><img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/zackriya-solutions/meeting-minutes?include_prereleases&color=yellow">
+ <a href="https://github.com/PixelNoah-ui/Ai_assistance/releases"> <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/PixelNoah-ui/Ai_assistance/total?style=plastic"> </a>
+    <a href="https://github.com/PixelNoah-ui/Ai_assistance/releases"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+    <a href="https://github.com/PixelNoah-ui/Ai_assistance/releases"><img src="https://img.shields.io/badge/Supported_OS-macOS,_Windows-white" alt="Supported OS"></a>
+    <a href="https://github.com/PixelNoah-ui/Ai_assistance/releases"><img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PixelNoah-ui/Ai_assistance?include_prereleases&color=yellow">
 </a>
     <br>
     <h3>
     <br>
-    Open Source • Privacy-First • Enterprise-Ready
+    Open Source â€¢ Privacy-First â€¢ Enterprise-Ready
     </h3>
     <p align="center">
     Get latest <a href="https://www.zackriya.com/meetily-subscribe/"><b>Product updates</b></a> <br><br>
-    <a href="https://meetily.ai"><b>Website</b></a> •
-    <a href="https://www.linkedin.com/company/106363062/"><b>LinkedIn</b></a> •
-    <a href="https://discord.gg/crRymMQBFH"><b>Meetily Discord</b></a> •
-    <a href="https://discord.com/invite/vCFJvN4BwJ"><b>Privacy-First AI</b></a> •
-    <a href="https://www.reddit.com/r/meetily/"><b>Reddit</b></a>
+    <a href="https://meetily.ai"><b>Website</b></a>
 </p>
     <p align="center">
 
@@ -34,17 +30,11 @@ A privacy-first AI meeting assistant that captures, transcribes, and summarizes 
 
 </p>
 
-<p align="center">
-    <img src="docs/meetily_demo.gif" width="650" alt="Meetily Demo" />
-    <br>
-    <a href="https://youtu.be/6FnhSC_eSz8">View full Demo Video</a>
-</p>
-
 </div>
 
 ---
 
-> **Meetily PRO Upgrade Offer** - Meetily PRO is available for users who need enhanced accuracy, advanced exports, custom summary workflows, and team-ready features. Use coupon code **LAUNCH20** for **20% off** until the next Meetily Community Edition release. Speaker diarization is also planned for PRO in mid-June. [Explore Meetily PRO →](https://meetily.ai/pro/)
+> **Meetily PRO Upgrade Offer** - Meetily PRO is available for users who need enhanced accuracy, advanced exports, custom summary workflows, and team-ready features. Use coupon code **LAUNCH20** for **20% off** until the next Meetily Community Edition release. Speaker diarization is also planned for PRO in mid-June. [Explore Meetily PRO â†’](https://meetily.ai/pro/)
 
 ---
 
@@ -83,7 +73,7 @@ While there are many meeting transcription tools available, this solution stands
 Meeting AI tools create significant privacy and compliance risks across all sectors:
 
 - **$4.4M average cost per data breach** (IBM 2024)
-- **€5.88 billion in GDPR fines** issued by 2025
+- **â‚¬5.88 billion in GDPR fines** issued by 2025
 - **400+ unlawful recording cases** filed in California this year
 
 Whether you're a defense consultant, enterprise executive, legal professional, or healthcare provider, your sensitive discussions shouldn't live on servers you don't control. Cloud meeting tools promise convenience but deliver privacy nightmares with unclear data storage practices and potential unauthorized access.
@@ -103,19 +93,19 @@ Whether you're a defense consultant, enterprise executive, legal professional, o
 
 ## Installation
 
-### 🪟 **Windows**
+### ðŸªŸ **Windows**
 
-1. Download the latest `x64-setup.exe` from [Releases](https://github.com/Zackriya-Solutions/meeting-minutes/releases/latest)
+1. Download the latest `x64-setup.exe` from [Releases](https://github.com/PixelNoah-ui/Ai_assistance/releases/latest)
 2. Run the installer
 
-### 🍎 **macOS**
+### ðŸŽ **macOS**
 
-1. Download `meetily_0.4.0_aarch64.dmg` from [Releases](https://github.com/Zackriya-Solutions/meeting-minutes/releases/latest)
+1. Download `meetily_0.4.0_aarch64.dmg` from [Releases](https://github.com/PixelNoah-ui/Ai_assistance/releases/latest)
 2. Open the downloaded `.dmg` file
 3. Drag **Meetily** to your Applications folder
 4. Open **Meetily** from Applications folder
 
-### 🐧 **Linux**
+### ðŸ§ **Linux**
 
 Build from source following our detailed guides:
 
@@ -125,15 +115,15 @@ Build from source following our detailed guides:
 **Quick start:**
 
 ```bash
-git clone https://github.com/Zackriya-Solutions/meeting-minutes
-cd meeting-minutes/frontend
+git clone https://github.com/PixelNoah-ui/Ai_assistance
+cd Ai_assistance/frontend
 pnpm install
 ./build-gpu.sh
 ```
 
 ## Key Features in Action
 
-### 🎯 Local Transcription
+### ðŸŽ¯ Local Transcription
 
 Transcribe meetings entirely on your device using **Whisper** or **Parakeet** models. No cloud required.
 
@@ -141,29 +131,7 @@ Transcribe meetings entirely on your device using **Whisper** or **Parakeet** mo
     <img src="docs/home.png" width="650" style="border-radius: 10px;" alt="Meetily Demo" />
 </p>
 
-### 📥 Import & Enhance `Beta`
-
-Import existing audio files to generate transcripts, or enhance to re-transcribe any recorded meeting with a different model or language, all processed locally.
-
-> Contributed by [Jeremi Joslin](https://github.com/jeremi), improved by [Vishnu P S](https://github.com/p-s-vishnu) and [Mohammed Safvan](https://github.com/mohammedsafvan)
-
-<p align="center">
-    <img src="docs/meetily-export.gif" width="650" style="border-radius: 10px;" alt="Import and Enhance" />
-</p>
-
-### 🤖 AI-Powered Summaries
-
-Generate meeting summaries with your choice of AI provider. **Ollama** (local) is recommended, with support for Claude, Groq, OpenRouter, and OpenAI.
-
-<p align="center">
-    <img src="docs/summary.png" width="650" style="border-radius: 10px;" alt="Summary generation" />
-</p>
-
-<p align="center">
-    <img src="docs/editor1.png" width="650" style="border-radius: 10px;" alt="Editor Summary generation" />
-</p>
-
-### 🔒 Privacy-First Design
+### Privacy-First Design
 
 All data stays on your machine. Transcription models, recordings, and transcripts are stored locally.
 
@@ -171,7 +139,7 @@ All data stays on your machine. Transcription models, recordings, and transcript
     <img src="docs/settings.png" width="650" style="border-radius: 10px;" alt="Local Transcription and storage" />
 </p>
 
-### 🌐 Custom OpenAI Endpoint Support
+### ðŸŒ Custom OpenAI Endpoint Support
 
 Use your own OpenAI-compatible endpoint for AI summaries. Perfect for organizations with custom AI infrastructure or preferred providers.
 
@@ -179,7 +147,7 @@ Use your own OpenAI-compatible endpoint for AI summaries. Perfect for organizati
     <img src="docs/custom.png" width="650" style="border-radius: 10px;" alt="Custom OpenAI Endpoint Configuration" />
 </p>
 
-### 🎙️ Professional Audio Mixing
+### ðŸŽ™ï¸ Professional Audio Mixing
 
 Capture microphone and system audio simultaneously with intelligent ducking and clipping prevention.
 
@@ -187,7 +155,7 @@ Capture microphone and system audio simultaneously with intelligent ducking and 
     <img src="docs/audio.png" width="650" style="border-radius: 10px;" alt="Device selection" />
 </p>
 
-### ⚡ GPU Acceleration
+### âš¡ GPU Acceleration
 
 Built-in support for hardware acceleration across platforms:
 
@@ -228,9 +196,9 @@ Speaker diarization is planned for mid-June, bringing automatic speaker separati
 - **Custom Summary Templates**: Tailor summaries to your specific workflow and needs
 - **Advanced Export Options**: PDF, DOCX, and Markdown exports with formatting
 - **Auto-detect and Join Meetings**: Automatic meeting detection and joining
-- **Speaker Identification**: Distinguish between speakers automatically *(Coming Soon)*
-- **Chat with Meetings**: AI-powered meeting insights and queries *(Coming Soon)*
-- **Calendar Integration**: Seamless integration with your calendar *(Coming Soon)*
+- **Speaker Identification**: Distinguish between speakers automatically _(Coming Soon)_
+- **Chat with Meetings**: AI-powered meeting insights and queries _(Coming Soon)_
+- **Calendar Integration**: Seamless integration with your calendar _(Coming Soon)_
 - **Self-Hosted Deployment**: Deploy on your own infrastructure for teams
 - **GDPR Compliance Built-In**: Privacy by design architecture with complete audit trails
 - **Priority Support**: Dedicated support for PRO users
@@ -265,7 +233,3 @@ MIT License - Feel free to use this project for your own purposes.
 - We borrowed some code from [transcribe-rs](https://crates.io/crates/transcribe-rs).
 - Thanks to **NVIDIA** for developing the **Parakeet** model.
 - Thanks to [istupakov](https://huggingface.co/istupakov/parakeet-tdt-0.6b-v3-onnx) for providing the **ONNX conversion** of the Parakeet model.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/chart?repos=Zackriya-Solutions/meetily&type=date&legend=top-left)](https://www.star-history.com/?repos=Zackriya-Solutions%2Fmeetily&type=date&legend=bottom-right)

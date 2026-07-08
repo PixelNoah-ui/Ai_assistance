@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 /**
  * Generate Tauri Update Manifest from Local Files for GitHub Releases
  *
@@ -56,7 +56,7 @@ const versionDir = `v${versionClean}`;
 const pubDate = new Date().toISOString();
 
 console.log(`Generating manifest for version ${versionClean}...`);
-console.log(`GitHub Repository: Zackriya-Solutions/meeting-minutes`);
+console.log(`GitHub Repository: PixelNoah-ui/Ai_assistance`);
 console.log(`Bundle Directory: ${bundleDir}`);
 console.log('');
 
@@ -117,7 +117,7 @@ bundleFiles.forEach(filename => {
 
   if (platform && !platforms[platform]) {
     // Generate GitHub Release URL
-    const githubUrl = `https://github.com/Zackriya-Solutions/meeting-minutes/releases/download/${versionDir}/${filename}`;
+    const githubUrl = `https://github.com/PixelNoah-ui/Ai_assistance/releases/download/${versionDir}/${filename}`;
 
     // Check if signature file exists (look for .sig file with same name)
     const sigFile = path.join(bundleDir, `${filename}.sig`);
@@ -126,7 +126,7 @@ bundleFiles.forEach(filename => {
       try {
         signature = fs.readFileSync(sigFile, 'utf8').trim();
       } catch (error) {
-        console.warn(`  ⚠ Failed to read signature file: ${error.message}`);
+        console.warn(`  âš  Failed to read signature file: ${error.message}`);
       }
     }
 
@@ -135,11 +135,11 @@ bundleFiles.forEach(filename => {
       url: githubUrl
     };
 
-    console.log(`✓ Found ${platform}: ${filename}`);
+    console.log(`âœ“ Found ${platform}: ${filename}`);
     if (signature) {
-      console.log(`  ✓ Signature found: ${path.basename(sigFile)}`);
+      console.log(`  âœ“ Signature found: ${path.basename(sigFile)}`);
     } else {
-      console.log(`  ⚠ No signature file found (expected: ${path.basename(sigFile)})`);
+      console.log(`  âš  No signature file found (expected: ${path.basename(sigFile)})`);
     }
   }
 });
@@ -161,10 +161,10 @@ const outputPath = path.resolve(outputFile);
 fs.writeFileSync(outputPath, JSON.stringify(manifest, null, 2));
 
 console.log('');
-console.log(`✓ Manifest generated: ${outputPath}`);
+console.log(`âœ“ Manifest generated: ${outputPath}`);
 console.log(`\nNext steps:`);
 console.log(`1. Create GitHub Release with tag: v${versionClean}`);
-console.log(`   URL: https://github.com/Zackriya-Solutions/meeting-minutes/releases/new?tag=v${versionClean}`);
+console.log(`   URL: https://github.com/PixelNoah-ui/Ai_assistance/releases/new?tag=v${versionClean}`);
 console.log(`\n2. Upload this file to the release:`);
 console.log(`   - File: ${outputFile}`);
 console.log(`   - Name: latest.json (must be exact)`);
@@ -174,4 +174,5 @@ Object.keys(platforms).forEach(platform => {
   console.log(`   - ${filename}`);
 });
 console.log(`\n4. Verify the manifest is accessible:`);
-console.log(`   curl https://github.com/Zackriya-Solutions/meeting-minutes/releases/latest/download/latest.json`);
+console.log(`   curl https://github.com/PixelNoah-ui/Ai_assistance/releases/latest/download/latest.json`);
+
